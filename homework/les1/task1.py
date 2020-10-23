@@ -1,0 +1,5 @@
+you_age = int(input("Введи ваш возраст: "))
+pets_age = int(input("Введи возраст вашего питомца: "))
+you_name = input("Введи своё имя: ")
+name_pets = input("Введи имя питомца: ")
+print(f"Ваше имя {you_name} вам {you_age} лет \nИмя вашего питомца {name_pets} ему {pets_age}")
